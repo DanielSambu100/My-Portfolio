@@ -1,0 +1,23 @@
+body {
+    background-color: #252b428c;
+    font-family: Montserrat;
+}
+
+header {
+    text-align: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100% 100%;
+    height: auto;
+}
+
+nav li {
+    /* display: inline-flex; */
+    float: right;
+    list-style-type: none;
+    padding: 3px;
+    margin: 10px;
+    border: 1px black solid;
+    background-color: w;
+}

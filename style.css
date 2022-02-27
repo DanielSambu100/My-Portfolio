@@ -95,3 +95,9 @@ span{
     /* margin-top: 10px; */
     /* clear: both; */
 }
+
+@media screen and (max-width: 800px) {
+    .left, .main, .right {
+      width: 100%;
+    }
+}
