@@ -4,7 +4,7 @@
 
 ####Author: Daniel Sambu.
 
-#This is my autodeveloped portfolio wevsite describing my road-map across the fields of academia, professionalism, skills, values and beliefs, social circle, and my future trajectory. It is worth noting that the main focus herein is about my life as a software developer. You all know life is so wide, right? The building blocks forming up this application are HTML for the structure, vannila CSS for styling and Javascript as the future plan for page dynamism and interactivity.
+#This is my autodeveloped portfolio website describing my road-map across the fields of academia, professionalism, skills, values and beliefs, social circle, and my future trajectory. It is worth noting that the main focus herein is about my life as a software developer. You all know life is so wide, right? The building blocks forming up this application are HTML for the structure, vannila CSS for styling and Javascript as the future plan for page dynamism and interactivity.
 
 ####Installation: *Download the setup HERE in its zipped format. *Extract the zipped setup. *Run the Bin file and follow the steps given to facilitate successful iinstallation.
 
