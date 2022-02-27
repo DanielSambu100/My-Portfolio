@@ -70,7 +70,9 @@ span{
 }
 .section2{
     float: right;
-    background-color: burlywood;
+    /* background-color: burlywood; */
+    background-image: url(/assets/background.jpg);
+    background-size: cover;
     border-radius: 10px;
     display: block;
     width: 65%;
