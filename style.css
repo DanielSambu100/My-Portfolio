@@ -35,14 +35,24 @@ li{
     list-style-type: none;
     display: inline-block;
     padding: 10px;
-    border-radius: 15px;
-    background-color: rgb(87, 165, 42);
+    border-radius: 20px;
+    background-color: rgb(79, 182, 19);
     color: white;
     /* justify-content: right; */
     /* text-align: right; */
 }
 ul :hover{
-    background-color: grey;
+    background-color: rgb(128, 128, 128);
+    color: white;
+}
+.sub-header{
+    font-family: monospace;
+    text-align: center;
+    padding-top: 50px;
+    font-size: xx-large;
+}
+span{
+    color: rgb(88, 8, 8);
 }
 #banner{
     /* background-color: rosybrown; */
