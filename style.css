@@ -105,7 +105,7 @@ span{
     display: inline-block;
 }
 .block1{
-padding-top: 80px;
+padding-top: 40px;
 padding-left: 50px;
     text-align: center;
     width: 30%;
@@ -123,7 +123,7 @@ padding-left: 50px;
     /* background-color: powderblue; */
     width: 50%;
     float: right;
-    padding-top: 80px;
+    padding-top: 40px;
     font-size: xx-large;
 }
 .h3-1-3{
