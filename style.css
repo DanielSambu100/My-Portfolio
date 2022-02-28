@@ -66,7 +66,7 @@ span{
     display: block;
     height: 60%;
     width: 35%;
-    background-image: url(/assets/profile1.PNG);
+    background-image: url(assets/profile1.PNG);
     background-size: cover;
 }
 .section2 .h2-main{
@@ -77,7 +77,7 @@ span{
 }
 .section2{
     float: right;
-    background-image: url(/assets/background.jpg);
+    background-image: url(assets/background.jpg);
     background-size: cover;
     border-radius: 10px;
     width: 65%;
