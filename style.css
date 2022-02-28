@@ -26,10 +26,13 @@ body{
     float: left;
 }
 .navbar{
-    text-align: right;
+    /* text-align: right; */
     margin: 10px;
     padding: 10px;
     justify-content: space-between;
+}
+.header .navbar .list-items {
+    display: inline-block;
 }
 li{
     list-style-type: none;
@@ -38,8 +41,7 @@ li{
     border-radius: 20px;
     background-color: rgb(79, 182, 19);
     color: white;
-    /* justify-content: right; */
-    /* text-align: right; */
+    text-align: right;
 }
 ul :hover{
     background-color: rgb(128, 128, 128);
@@ -47,15 +49,14 @@ ul :hover{
 }
 .sub-header{
     font-family: monospace;
-    text-align: center;
-    padding-top: 50px;
+     /* text-align: center; */
+    padding-top: 50px; 
     font-size: xx-large;
 }
 span{
     color: rgb(88, 8, 8);
 }
 #banner{
-    /* background-color: rosybrown; */
     height: 100vh;
     text-align: center;
 }
@@ -81,6 +82,17 @@ span{
     border-radius: 10px;
     width: 65%;
     height: 60%;
+}
+.section2 .h2{
+    text-align: center;
+    padding-top: 50px;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: brown;
+}
+.section2 .p2{
+    text-align: center;
+    color: green;
 }
 .section3{
     float: left;
